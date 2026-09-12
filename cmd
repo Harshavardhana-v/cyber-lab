@@ -1,3 +1,4 @@
+//cmd for 2nd program
 sudo apt install apache2 -y
 apache2 -v
 sudo systemctl start apache2

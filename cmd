@@ -1,4 +1,3 @@
-
 sudo apt install apache2 -y
 apache2 -v
 sudo systemctl start apache2
@@ -8,7 +7,6 @@ sudo apt install mariadb-server -y
 sudo systemctl start MariaDB
 sudo systemctl enable MariaDB
 sudo systemctl status MariaDB
-// install php cmd
 sudo apt install php php-mysql libapache2-mod-php -y
 php -v
 

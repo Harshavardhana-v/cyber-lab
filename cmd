@@ -27,7 +27,6 @@ sudo cp config.inc.php.dist config.inc.php
 
 
 sudo MySQL / sudo MariaDB
-//cmd to create a database and user and add privileges
 CREATE DATABASE dvwa;
 CREATE USER 'dvwa'@'localhost' IDENTIFIED BY 'p@ssw0rd';
 GRANT ALL PRIVILEGES ON dvwa.* TO 'dvwa'@'localhost';

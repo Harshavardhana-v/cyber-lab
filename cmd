@@ -47,12 +47,6 @@ http://localhost/DVWA
 click create/reset Database
 add username admin and password password
 
-
-Go to DVWA security 
-make it to low and submit 
-
-
-Go to SQL injection
 In User id enter 1 and submit 
 
 next time enter ' submit error appears

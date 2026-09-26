@@ -6,3 +6,4 @@ echo "<h2>Login Attempt</h2>";
 echo "Username: " . $username . "<br>";
 echo "Password: " . $password . "<br>";
 ?>
+//php code for backend to receive the info from html code 

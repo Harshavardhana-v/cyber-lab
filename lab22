@@ -22,3 +22,4 @@ printf("\nRoot privileges given to the user\n");
 }
 return 0;
 }
+gcc -g -fno-stack-protector -z execstack -o buffer buffer.c

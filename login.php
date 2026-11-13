@@ -1,3 +1,4 @@
+// php code for handling simple user details 
 <?php
 $username = $_POST['username'];
 $password = $_POST['password'];
